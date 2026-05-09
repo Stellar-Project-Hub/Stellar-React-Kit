@@ -2,7 +2,8 @@
 
 [![CI](https://github.com/Stellar-Project-Hub/Stellar-React-Kit/actions/workflows/ci.yml/badge.svg)](https://github.com/Stellar-Project-Hub/Stellar-React-Kit/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![npm](https://img.shields.io/npm/v/@stellar-project-hub/stellar-react-kit)](https://www.npmjs.com/package/@stellar-project-hub/stellar-react-kit)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 **Headless, composable React components for the Stellar ecosystem.** Paste components into your project, own the styling, ship faster.
 
